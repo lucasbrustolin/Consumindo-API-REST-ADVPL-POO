@@ -5,7 +5,7 @@
 
 :white_check_mark: Interface de Log.
 
-:o: Classe base para para futuras integrações.
+:o: Classe base para novas integrações.
 
 :o: Classe de Integração ERP Protheus x Intelipost.
 

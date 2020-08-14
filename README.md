@@ -31,7 +31,7 @@ lRet := oITLPost:IncPedido(aPedido,aVolumes)
 ##### Parte 01: Criação da interface de Log. :white_check_mark:
 
 
-Partiremos na construção de uma interface de log com o propósito de oferecer a consulta de todos os registros que foram disparados no processo de integração, toda troca de dados terá seu status indicando se a mensagem foi entregue com sucesso ou não, isso na eventualidade de falhas de conexão com a API ou erros de regra de negócio. O uso do Framework MVC também será aplicado neste contexto pois o mesmo nos beneficiará em vários aspectos, seja na velocidade na construção de tela, código organizado, consistente e também pelo reuso, onde faremos o instanciamento do objeto (Modelo de dados) que será o responsável pela gravação dos dados.
+Partiremos na construção de uma interface de log com o propósito de oferecer a consulta de todos os registros que foram disparados no processo de integração, toda troca de dados terá seu status indicando se a mensagem foi entregue com sucesso ou não, isso na eventualidade de falhas de conexão com a API ou erros de regra de negócio. O parão de arquitetura <b>MVC </b> também será aplicado neste contexto, pois o mesmo nos beneficiará em vários aspectos, seja na velocidade na construção de tela, melhor manutenção e pelo reuso, onde faremos o instanciamento do objeto (Modelo de dados) para gravação dos dados.
 
 
 ![LogIntegration.gif](./resource/LogIntegration.gif)

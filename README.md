@@ -3,8 +3,11 @@
 ##### Progresso desenvolvimento:
 
 :white_check_mark: Interface de Log.
+
 :o: Classe base.
+
 :o: Classe de Integração ERP Protheus x Intelipost.
+
 :o: Functions para execução das integrações.
 
 

@@ -1,6 +1,7 @@
 # Consumindo API REST - ADVPL POO
 
-##### Progresso desenvolvimento:
+##### Progresso desenvolvimento: ??
+
 
 :white_check_mark: Interface de Log.
 
